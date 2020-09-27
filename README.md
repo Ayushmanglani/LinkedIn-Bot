@@ -1,2 +1,2 @@
 # LinkedIn-Bot
-Bots on LinkedIn To Work Easier
+Bots on LinkedIn To Make Tasks Easier
